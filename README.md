@@ -19,7 +19,6 @@ I love building beautiful and user-friendly web interfaces using modern web tech
 
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajashreeborse&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashreeborse&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
